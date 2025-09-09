@@ -3,5 +3,5 @@ Console.WriteLine("Hello, World!");
 
 var stringVar = $"""
 something
-"""
+""";
 
